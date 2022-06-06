@@ -1,3 +1,3 @@
-# CLIO-UNITY
-## Um sistema gamificado no intuito de ensinar História, por meio da Realidade Virtual, para alunos com TDAH
+# CLIO
+## CLIO is a project for students with ADHD. This game uses VR technology to teach History through stories about historicals events
 
