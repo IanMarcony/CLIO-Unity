@@ -1,0 +1,61 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.03.2012 16:01:28
+
+newmtl 14051_Pirate_Captain_body
+	Ns 21.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 14051_Pirate_Captain_body_diff.jpg
+	map_Kd 14051_Pirate_Captain_body_diff.jpg
+	map_Ks 14051_Pirate_Captain_body_spec.jpg
+
+newmtl 14051_Pirate_Captain_hat
+	Ns 21.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 14051_Pirate_Captain_hat_diff.jpg
+	map_Kd 14051_Pirate_Captain_hat_diff.jpg
+	map_Ks 14051_Pirate_Captain_hat_spec.jpg
+
+newmtl 14051_Pirate_Captain_sabre
+	Ns 21.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 14051_Pirate_Captain_sabre_diff.jpg
+	map_Kd 14051_Pirate_Captain_sabre_diff.jpg
+	map_Ks 14051_Pirate_Captain_sabre_cpec.jpg
+
+newmtl 14051_Pirate_Captain_parrot
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 14051_Pirate_Captain_parrot_diff.jpg
+	map_Kd 14051_Pirate_Captain_parrot_diff.jpg

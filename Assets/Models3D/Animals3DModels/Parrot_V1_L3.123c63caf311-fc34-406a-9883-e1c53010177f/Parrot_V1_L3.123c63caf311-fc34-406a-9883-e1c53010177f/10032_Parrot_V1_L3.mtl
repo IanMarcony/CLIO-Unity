@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.04.2011 10:03:44
+
+newmtl _10032_Parrot_V1_L3wire_143224087
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3490 0.3490 0.3490
+	Kd 0.3490 0.3490 0.3490
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 10032_Parrot_V1_Diffuse.jpg
+	map_Kd 10032_Parrot_V1_Diffuse.jpg
